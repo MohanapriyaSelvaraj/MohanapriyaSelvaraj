@@ -11,8 +11,7 @@
 - #### 🏅 I successfully completed the **Bright Network Internship Experience** in Technology UK. Here is my certificate of completion:
 
 
-[![Bright Network Certificate](https://www.brightnetwork.co.uk/certificates/ieuk-2024-technology_n1n4butcv9bh5h/)]
-
+![Bright Network Certificate](https://github.com/MohanapriyaSelvaraj/MohanapriyaSelvaraj/blob/main/bright.png)
 - #### 📫 How to reach me: Feel free to contact me via **[reachpriyashyam@gmail.com](mailto:reachpriyashyam@gmail.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/mohanapriya-selvaraj-390a8653/)**.
 - #### 😄 Pronouns: She/Her
 - #### ⚡ Fun fact: I'm always up for a challenge, whether it's solving data problems or learning new programming languages and tools!
