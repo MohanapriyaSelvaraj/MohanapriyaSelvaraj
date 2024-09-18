@@ -8,8 +8,10 @@
 - #### 👯 I’m looking to collaborate on exciting projects in **data analysis** and **software engineering**.
 - #### 🤔 I’m looking for help with landing my first job in the **data field**.
 - #### 💬 Ask me about my journey into **data analytics** and what I’ve learned so far!
-- #### 🏆 Bright Network Certificate
-[![Bright Network Certificate](https://www.brightnetwork.co.uk/certificates/ieuk-2024-technology_n1n4butcv9bh5h/)](https://www.brightnetwork.co.uk/certificates/ieuk-2024-technology_n1n4butcv9bh5h/)
+- #### 🏅 I successfully completed the **Bright Network Internship Experience** in Technology UK. Here is my certificate of completion:
+
+
+[![Bright Network Certificate](https://www.brightnetwork.co.uk/certificates/ieuk-2024-technology_n1n4butcv9bh5h/)]
 
 - #### 📫 How to reach me: Feel free to contact me via **[reachpriyashyam@gmail.com](mailto:reachpriyashyam@gmail.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/mohanapriya-selvaraj-390a8653/)**.
 - #### 😄 Pronouns: She/Her
