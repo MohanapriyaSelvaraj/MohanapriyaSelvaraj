@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-I'm **Mohanapriya Selvaraj**, living in the UK, and I recently completed my **Master's in Data Analytics** at **Aston University**. 
+## I'm **Mohanapriya Selvaraj**, living in the UK, and I recently completed my **Master's in Data Analytics** at **Aston University**. 
 I'm passionate about all things data and love learning new skills that can help me grow in my field.
 
 - 🔭 I’m currently working on building my skills in **Software Engineering** through the **Software Engineering for Leaders Bootcamp** with **HyperionDev**.
